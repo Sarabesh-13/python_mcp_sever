@@ -8,6 +8,6 @@ This is a sample MCP server that provides access to a dataset and allows the LLM
 To run the server, use the following command:
 ```python server.py
 ```
-Make sure to have the required dependencies installed, such as FastMCP and pandas. The server will be accessible at `http://127.0.0.1:8000` and you can interact with it using the provided endpoints to explore the dataset and run code on it.
+Make sure to have the required dependencies installed, such as FastMCP and pandas. The server will be accessible at `http://localhost:port` and you can interact with it using the provided endpoints to explore the dataset and run code on it.
 """
 
