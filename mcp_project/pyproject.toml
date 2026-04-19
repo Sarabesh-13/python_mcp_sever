@@ -1,0 +1,13 @@
+[project]
+name = "mcp-project"
+version = "0.1.0"
+description = "This Demo project for testing mcp sever"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=3.2.4",
+    "mcp[cli]>=1.27.0",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "prefab-ui>=0.19.1",
+]
