@@ -1,0 +1,1 @@
+fastmcp run server.py --transport http --port 10000
